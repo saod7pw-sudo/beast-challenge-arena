@@ -1,0 +1,10 @@
+{
+  "name": "Beast Challenge Arena",
+  "short_name": "Beast Arena",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "orientation": "landscape",
+  "icons": []
+}
